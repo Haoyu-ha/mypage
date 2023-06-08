@@ -9,22 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-During construction
 
-<!-- Education
+Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in China University Of Geosciences, Wuhan, 2023
+* B.S. in Hebei University of Engineering, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2021 - Present: Research Assistant
+  * The Chinese University of Hong Kong, Shenzhen
+  * Supervisor: [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/index.html)
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
