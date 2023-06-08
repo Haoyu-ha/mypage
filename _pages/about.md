@@ -10,13 +10,13 @@ redirect_from:
 
 I'm a third year master student from [China University of Geosciences](https://www.cug.edu.cn). My research interest includes multimodal learning, sentiment analysis, computer vision, and machine learning.
 
-# I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.cug.edu.cn/), China University of Geosciences. I was advised by [Prof. XX](https://XXX.cug.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), China University of Geosciences.
+<!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.cug.edu.cn/), China University of Geosciences. I was advised by [Prof. XX](https://XXX.cug.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), China University of Geosciences. -->
 
 You can find my CV here: [Haoyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:zhanghaoyu@cug.edu.cn)
 
-# / [Github](https://github.com/Haoyu-ha)
+<!-- / [Github](https://github.com/Haoyu-ha) -->
 
 
 A data-driven personal website
