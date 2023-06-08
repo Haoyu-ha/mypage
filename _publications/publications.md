@@ -12,7 +12,7 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Note</span>
 ------
-Corresponding author: *        Co-first author: #        Supervised student: $
+Corresponding author: * 
 
 ## <span style="color:#1E90FF"> Preprint</span>
 ------
