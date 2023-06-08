@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year master student from [China University of Geosciences](https://www.cug.edu.cn/), supervised by [Prof. Yunayuan Liu](https://grzy.cug.edu.cn/liuyuanyuan/zh_CN/index.htm) from [School of Computer Science](https://cs.cug.edu.cn/). 
+I'm a third year master student from [China University of Geosciences](https://www.cug.edu.cn/), supervised by [Prof. Yunayuan Liu](https://cvlab-liuyuanyuan.github.io/) from [School of Computer Science](https://cs.cug.edu.cn/). 
 
 My research interest includes multimodal learning, sentiment analysis, computer vision, and machine learning.
 
