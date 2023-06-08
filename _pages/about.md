@@ -14,6 +14,6 @@ My research interest includes multimodal learning, sentiment analysis, computer 
 
 <!-- You can find my CV here: [Haoyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 
-[Email](mailto:zhanghaoyu@cug.edu.cn)
+<!-- [Email](mailto:zhanghaoyu@cug.edu.cn) -->
 
 <!-- / [Github](https://github.com/Haoyu-ha) -->
