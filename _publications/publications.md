@@ -14,17 +14,6 @@ author_profile: true
 ------
 Corresponding author: *        Co-first author: #        Supervised student: $
 
-## <span style="color:#1E90FF">Submitted</span>
-------
-1. Zhibo Li, Yongyun Hu\*, Jun Yang, xxx. The evolution of PNA during the past 70 million years. To be submitted to **_GPC_**
-2. Peng Hu, Wen Chen\*,Zhibo Li, et al. Distinct features of tropical synoptic-scale waves: before and after the SCSSM onset. To be submitted to **_JC_**
-3. Shiwei Jiang, Xin Zhou\*, Zhibo Li, et al. Increased effective radiative forcing enhanced the modulating effect of Pacific Decadal Oscillation on late Little Ice Age precipitation in Jiang-Huai region, China. Submitted to _**Climate Dynamics**_
-4. Cheng Shen#\*, Zhibo Li#\*, Fei Liu, Deliang Chen\*. Robust reduction in subtropical terrestrial near-surface wind speed after tropical volcanic eruptions. Submitted to _**Nature Geoscience**_
-5. Cheng Shen, Huishuang Yuan, Zhibo Li, et al.Hiatus of near-surface wind speed in March over China since 2011. Submitted to _**GRL**_
-6. Zhibo Li, Yongyun Hu\*, Qiang Fu, et al. Terrestrial aridity and dryland evolutions since Pangea. Submitted to _**Nature**_
-7. Cheng Shen#, Zhibo Li#\*, Yue Yu, Deliang Chen\*. Offshore wind energy potential decreases with global warming. Submitted to _**RSER**_
-
-
 ## <span style="color:#1E90FF"> Preprint</span>
 ------
 ### <span style="color:#1E90FF">2023</span>
