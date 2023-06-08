@@ -11,7 +11,7 @@ title                    : "Emmm..."
 title_separator          : "-"
 name                     : &name "Haoyu ZHANG"
 description              : &description "Haoyu ZHANG is interested in multimodal learning and computer vision"
-url                      : https://github.com/Haoyu-ha
+url                      : https://haoyu-ha.github.io/cv/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Haoyu-ha/cv"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
