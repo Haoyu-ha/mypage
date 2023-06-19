@@ -15,15 +15,15 @@ Education
 * M.S. in China University Of Geosciences, Wuhan, 2023
 * B.S. in Hebei University of Engineering, 2019
 
-Research experience
+Research Experience
 ======
 * Sep 2020 - Present: Research Assistant at The Chinese University of Hong Kong, Shenzhen
   * Supervisor: [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/index.html)
-  * Responsibilities
+  * Responsibilitie:
     *   Explore the potential application of reinforcement learning/Graph Learning in solving large-scale TSP
     *   Design algorithms and conduct experiments
       
-Research project
+Research Project
 ======
 * Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry, 2021.08~2022.08, participation
 * Research on video emotion detection and recognition under unconstrained conditions (非约束条件下视频情感检测与识别方法研究), National Natural Science Foundation of China, 2021.01~2023.06, participation
