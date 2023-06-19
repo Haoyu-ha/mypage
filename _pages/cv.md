@@ -17,10 +17,12 @@ Education
 
 Research experience
 ======
-* Sep 2020 - Present: Research Assistant
-  * The Chinese University of Hong Kong, Shenzhen
+* Sep 2020 - Present: Research Assistant at The Chinese University of Hong Kong, Shenzhen
   * Supervisor: [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/index.html)
-
+  * Responsibilities
+    *   Explore the potential application of reinforcement learning/Graph Learning in solving large-scale TSP
+    *   Design algorithms and conduct experiments
+      
 Research project
 ======
 * Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry, 2021.08~2022.08, participation
