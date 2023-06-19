@@ -17,24 +17,17 @@ Education
 
 Research experience
 ======
-* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions
-  * National Natural Science Foundation of China
-  * Participation
-
-* Sep 2020 - Dec 2022: Key technologies and applications of video-based intelligent emotional computing
-  * Wuhan Applied Fundamental Frontier Project
-  * Participation
-    
-* Sep 2020 - Nov 2021: Few-shot learning based intelligent rapid detection technology of typical military targets
-  * Joint Fund of Equipment Pre-Research and Aerospace Science and Industry
-  * Participation
-
-Work experience
-======
 * Sep 2020 - Present: Research Assistant
   * The Chinese University of Hong Kong, Shenzhen
   * Supervisor: [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/index.html)
-    
+
+Research project
+======
+* Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry, 2021.08~2022.08, participation
+* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions (非约束条件下视频情感检测与识别方法研究), National Natural Science Foundation of China, 2021.01~2023.06, participation
+* Sep 2020 - Dec 2022: Key technologies and applications of video-based intelligent emotional computing (基于视频的智能情感计算关键技术与应用), Wuhan Applied Fundamental Frontier Project, 2020.09~2022.12, participation
+* Sep 2020 - Nov 2021: Few-shot learning based intelligent rapid detection technology of typical military targets (基于小样本学习的典型军事目标智能快速识别技术), Joint Fund of Equipment Pre-Research and Aerospace Science and Industry, 2020.09~2021.11, participation
+
 Publications
 ======
 * Preprint
@@ -52,6 +45,29 @@ Publications
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Research project
+======
+
+* Machine learning for large-scale TSP (机器学习辅助大规模TSP求解)
+*
+* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions
+  * National Natural Science Foundation of China
+  * Participation
+    
+Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry,
+
+* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions
+  * National Natural Science Foundation of China
+  * Participation
+
+* Sep 2020 - Dec 2022: Key technologies and applications of video-based intelligent emotional computing
+  * Wuhan Applied Fundamental Frontier Project
+  * Participation
+    
+* Sep 2020 - Nov 2021: Few-shot learning based intelligent rapid detection technology of typical military targets
+  * Joint Fund of Equipment Pre-Research and Aerospace Science and Industry
+  * Participation
   
 Skills
 ======
