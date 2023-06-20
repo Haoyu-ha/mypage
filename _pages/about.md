@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year master student from [China University of Geosciences](https://www.cug.edu.cn/), supervised by [Prof. Yunayuan Liu](https://cvlab-liuyuanyuan.github.io/) from [School of Computer Science](https://cs.cug.edu.cn/). 
+I'm a master's student from [China University of Geosciences](https://www.cug.edu.cn/), supervised by [Prof. Yunayuan Liu](https://cvlab-liuyuanyuan.github.io/) from [School of Computer Science](https://cs.cug.edu.cn/). 
 
 I'm also a research assistant from [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), supervised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). 
 
