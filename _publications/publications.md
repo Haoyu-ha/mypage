@@ -22,7 +22,8 @@ Corresponding author: \*
 ## <span style="color:#1E90FF">Conference papers</span>
 ------
 ### <span style="color:#1E90FF">2023</span>
-I have a conference paper submitted to ACM MM 2023. 😊
+1. one paper submitted to ACM MM 2023. 
+2. one paper submitted to EMNLP 2023. 😊
 
 ## <span style="color:#1E90FF">Journal papers</span>
 ------
