@@ -45,7 +45,7 @@ Publications
 Honors and Awards
 ======
   * Outstanding Graduate, China University of Geosciences, Wuhan, 2023.06
-  * Academic Scholarship for Undergraduate Students, China University of Geosciences, Wuhan, 2020~2023
+  * Academic Scholarship for Postgraduate Students, China University of Geosciences, Wuhan, 2020~2023
   * The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation, 2020.11
   * National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation, 2020.11
   * Outstanding Graduate, China University of Geosciences, Wuhan, 2019.02
@@ -53,7 +53,7 @@ Honors and Awards
   * The Second Prize of Undergraduate Group in Hebei Division of National Undergraduate Electronic Design Competition, Hebei Department of Education, 2017.08
   * National Excellence Award of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.07
   * The Champion in Hebei Division of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.03
-  * Academic Scholarship for Postgraduate Students, Hebei University of Engineering, 2015~2019
+  * Academic Scholarship for Undergraduate Students, Hebei University of Engineering, 2015~2019
 
   
 <!-- * Fall 2015: Research Assistant
