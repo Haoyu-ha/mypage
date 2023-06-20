@@ -33,14 +33,14 @@ Research Project
 Publications
 ======
 * Preprint
-  1. Yuanyuan Liu, Haoyu Zhang*, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023
+  1. Yuanyuan Liu, **Haoyu Zhang***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (*corresponding author)
      
 * Conference paper
   1. null
   
 * Journal paper
-  1. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, Haoyu Zhang, Zhe Chen, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023
-  2. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, Haoyu Zhang, Zhongwen Luo. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
+  1. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023
+  2. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
 
 Honors and Awards
 ======
