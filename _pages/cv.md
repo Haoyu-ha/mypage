@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in China University Of Geosciences, Wuhan, 2023
-* B.S. in Hebei University of Engineering, 2019
+* M.S. in China University Of Geosciences, Wuhan, Software Engineering, 2023
+* B.S. in Hebei University of Engineering, Automation, 2019
 
 Research Experience
 ======
