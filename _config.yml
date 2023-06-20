@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmm..."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haoyu ZHANG"
 description              : &description "Haoyu ZHANG is interested in multimodal learning and computer vision"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haoyu ZHANG"
   avatar           : "mypic.png"
-  bio              : "Master student"
+  bio              : 
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
