@@ -42,7 +42,20 @@ Publications
   1. Liu Y, Wang W, Feng C, Zhang H, et al. Expression snippet transformer for robust video-based facial expression recognition [J]. Pattern Recognition, 2023: 109368.
   2. Liu Y, Wang C, Wang W, Zhang H, et al. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather [J]. Journal of Computer-Aided Design & Computer Graphics, 2023.
 
-    
+Honors and Awards
+======
+  Outstanding Graduate, China University of Geosciences, Wuhan, 2023.06
+  Academic Scholarship for Undergraduate Students, China University of Geosciences, Wuhan, 2020~2023
+  The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation, 2020.11
+  National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation, 2020.11
+  Outstanding Graduate, China University of Geosciences, Wuhan, 2019.02
+  The Second Prize in North China Division of The 12th NXP Cup National University Students Intelligent Car Race, Automation Teaching Guidance Committee of Ministry of Education of the PRC, 2017.07
+  The Second Prize of Undergraduate Group in Hebei Division of National Undergraduate Electronic Design Competition, Hebei Department of Education, 2017.08
+  National Excellence Award of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.07
+  The Champion in Hebei Division of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.03
+  Academic Scholarship for Postgraduate Students, Hebei University of Engineering, 2015~2019
+
+  
 <!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
