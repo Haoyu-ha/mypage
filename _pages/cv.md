@@ -33,7 +33,7 @@ Research Project
 Publications
 ======
 * Preprint
-  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (*corresponding author)
+  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (\*corresponding author)
      
 * Conference paper
   1. null
