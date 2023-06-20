@@ -23,7 +23,7 @@ Work Experience
     *   Explore the potential application of reinforcement learning/graph Learning in solving large-scale TSP
     *   Design algorithms and conduct experiments
       
-* Spring 2021: Teaching Assistant in Data Mining and Data Analysis Course at China University Of Geosciences, Wuhan
+* Spring 2021: Teaching Assistant in Data Mining and Data Analysis Course at China University f Geosciences, Wuhan
       
 Research Experience
 ======
