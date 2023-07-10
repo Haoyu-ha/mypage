@@ -29,7 +29,7 @@ Corresponding author: \*
 ------
 ### <span style="color:#1E90FF">2023</span>
 ------
-1. Guanghao Yin, Tengfei Liu, **Haoyu Zhang**, Yuanyuan Liu\*. TMDL: Transformer-based Modality Disentangling Learning for Multimodal Emotion Recognition. Information Science, 2023 (under review)
+1. Guanghao Yin, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Yuanyuan Liu\*. TMDL: Transformer-based Modality Disentangling Learning for Multimodal Emotion Recognition. Information Science, 2023 (under review)
 2. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023
 3. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo\*. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
 
