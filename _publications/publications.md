@@ -17,13 +17,13 @@ Corresponding author: \*
 ## <span style="color:#1E90FF"> Preprint</span>
 ------
 ### <span style="color:#1E90FF">2023</span>
-1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023
+1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (under review)
    
 ## <span style="color:#1E90FF">Conference papers</span>
 ------
 ### <span style="color:#1E90FF">2023</span>
-1. one paper submitted to ACM MM 2023. 
-2. one paper submitted to EMNLP 2023. 😊
+1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. EMNLP, 2023 (under review)
+2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. ACM MM, 2023 (under review)
 
 ## <span style="color:#1E90FF">Journal papers</span>
 ------
