@@ -32,13 +32,14 @@ Research Experience
 * Key technologies and applications of video-based intelligent emotional computing (基于视频的智能情感计算关键技术与应用), Wuhan Applied Fundamental Frontier Project, 2020.09~2022.12, Participation
 * Few-shot learning based intelligent rapid detection technology of typical military targets (基于小样本学习的典型军事目标智能快速识别技术), Joint Fund of Equipment Pre-Research and Aerospace Science and Industry, 2020.09~2021.11, Participation
 
-Publications
+Publications (\*corresponding author)
 ======
 * Preprint
-  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (\*corresponding author)
+  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (under review)
      
 * Conference papers
-  1. null
+  1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. EMNLP, 2023 (under review)
+  2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. ACM MM, 2023 (under review)
   
 * Journal papers
   1. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023
