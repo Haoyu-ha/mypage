@@ -18,6 +18,7 @@ Corresponding author: \*
 ------
 ### <span style="color:#1E90FF">2023</span>
 1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (under review)
+2. Zhang-Hua Fu\*, Sipeng Sun, Jintong Ren, Tianshu Yu\*, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu\*. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv:2308.04639, 2023.
    
 ## <span style="color:#1E90FF">Conference papers</span>
 ------
