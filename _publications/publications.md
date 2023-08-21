@@ -24,7 +24,7 @@ Corresponding author: \*
 ------
 ### <span style="color:#1E90FF">2023</span>
 1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. EMNLP, 2023 (under review)
-2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. ACM MM, 2023 (under review)
+2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. 2023 (under review)
 
 ## <span style="color:#1E90FF">Journal papers</span>
 ------
