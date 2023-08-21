@@ -40,7 +40,7 @@ Publications (\*corresponding author)
      
 * Conference papers
   1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. EMNLP, 2023 (under review)
-  2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. ACM MM, 2023 (under review)
+  2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. 2023 (under review)
   
 * Journal papers
   1. Guanghao Yin, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Yuanyuan Liu\*. TMDL: Transformer-based Modality Disentangling Learning for Multimodal Emotion Recognition. Information Science, 2023 (under review)
