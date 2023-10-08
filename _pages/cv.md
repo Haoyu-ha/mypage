@@ -39,7 +39,7 @@ Publications (\*corresponding author)
   2. Zhang-Hua Fu\*, Sipeng Sun, Jintong Ren, Tianshu Yu\*, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu\*. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv:2308.04639, 2023.
      
 * Conference papers
-  1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. EMNLP, 2023 (under review)
+  1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), 2023
   2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. 2023 (under review)
   
 * Journal papers
