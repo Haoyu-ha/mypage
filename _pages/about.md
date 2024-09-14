@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming Ph.D. student at The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). 
 
-Before that, I obtained my master's degree from University College London, where I was fortunate to work under the supervision of [Dr. Oana-Maria Camburu](https://cvlab-liuyuanyuan.github.io/) and [Prof. Pontus Stenetorp](https://pontus.stenetorp.se/).
+Before that, I obtained my master's degree from University College London, where I was fortunate to work under the supervision of [Dr. Oana-Maria Camburu](https://profiles.ucl.ac.uk/89491-oanamaria-camburu) and [Prof. Pontus Stenetorp](https://pontus.stenetorp.se/).
 
 My research interest includes multimodal learning, human-computer interaction and AI4Science.
 
