@@ -48,6 +48,8 @@ Honors and Awards
   * The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation
   * National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation
 
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
