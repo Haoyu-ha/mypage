@@ -12,105 +12,41 @@ redirect_from:
 
 Education
 ======
-* M.S. in China University Of Geosciences, Wuhan, Software Engineering, 2020-2023
-* B.S. in Hebei University of Engineering, Automation, 2015-2019
+* Ph.D. in The Chinese University of Hong Kong, Shenzhen (Incoming in Spring 2025)
+* M.S. in University College London
+* M.S. in China University of Geosciences, Wuhan
 
 Work Experience
 ======
-* Sep 2021 - Present: Research Assistant at The Chinese University of Hong Kong, Shenzhen
-  * Supervisor: [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/index.html)
-  * Responsibility:
-    *   Explore the potential application of reinforcement learning/graph Learning in solving large-scale TSP
-    *   Design algorithms and conduct experiments
-      
-* Spring 2021: Teaching Assistant in Data Mining and Data Analysis Course at China University of Geosciences, Wuhan
+* Jun. 2024 - Sep. 2024: Xiaomi AI Lab
+* Sep. 2021 - Sep. 2022: Shenzhen Institute of Artificial Intelligence and Robotics for Society
       
 Research Experience
 ======
 * Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry, 2021.08~2022.08, Participation
 * Research on video emotion detection and recognition under unconstrained conditions (非约束条件下视频情感检测与识别方法研究), National Natural Science Foundation of China, 2021.01~2023.06, Participation
 * Key technologies and applications of video-based intelligent emotional computing (基于视频的智能情感计算关键技术与应用), Wuhan Applied Fundamental Frontier Project, 2020.09~2022.12, Participation
-* Few-shot learning based intelligent rapid detection technology of typical military targets (基于小样本学习的典型军事目标智能快速识别技术), Joint Fund of Equipment Pre-Research and Aerospace Science and Industry, 2020.09~2021.11, Participation
 
 Publications (\*corresponding author)
 ======
 * Preprint
-  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023 (under review)
+  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023. (under review)
   2. Zhang-Hua Fu\*, Sipeng Sun, Jintong Ren, Tianshu Yu\*, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu\*. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv:2308.04639, 2023.
      
 * Conference papers
   1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), 2023
-  2. Yuanyuan Liu, Lin Wei, Kejun Liu\*, **Haoyu Zhang**, Ziyuan Liu, Yuxuan Huang, Shaoze Feng. SMAD: A New Behavioural and Physiological Signals-based Spontaneous Multimodal Affective Database for Emotion Recognition. 2023 (under review)
   
 * Journal papers
-  1. Guanghao Yin, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Yuanyuan Liu\*. TMDL: Transformer-based Modality Disentangling Learning for Multimodal Emotion Recognition. Information Science, 2023 (under review)
-  2. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023
+  1. Guanghao Yin, Yuanyuan Liu\*, Tengfei Liu, **Haoyu Zhang**, Fang Fang, Chang Tang, Liangxiao Jiang. Token-disentangling Mutual Transformer for Multimodal Emotion Recognition. Engineering Applications of Artificial Intelligence, 2024.
+  2. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023.
   3. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo\*. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
 
 Honors and Awards
 ======
-  * Outstanding Graduate, China University of Geosciences, Wuhan, 2023.06
-  * Academic Scholarship for Postgraduate Students, China University of Geosciences, Wuhan, 2020~2023
-  * The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation, 2020.11
-  * National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation, 2020.11
-  * Outstanding Graduate, China University of Geosciences, Wuhan, 2019.02
-  * The Second Prize of Undergraduate Group in Hebei Division of National Undergraduate Electronic Design Competition, Hebei Department of Education, 2017.08
-  * The Second Prize in North China Division of The 12th NXP Cup National University Students Intelligent Car Race, Automation Teaching Guidance Committee of Ministry of Education of the PRC, 2017.07
-  * National Excellence Award of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.07
-  * The Champion in Hebei Division of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.03
-  * Academic Scholarship for Undergraduate Students, Hebei University of Engineering, 2015~2019
-
-  
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Research project
-======
-
-* Machine learning for large-scale TSP (机器学习辅助大规模TSP求解)
-*
-* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions
-  * National Natural Science Foundation of China
-  * Participation
-    
-Machine learning for large-scale TSP (机器学习辅助大规模TSP求解), from industry,
-
-* Jan 2021 - Jun 2023: Research on video emotion detection and recognition under unconstrained conditions
-  * National Natural Science Foundation of China
-  * Participation
-
-* Sep 2020 - Dec 2022: Key technologies and applications of video-based intelligent emotional computing
-  * Wuhan Applied Fundamental Frontier Project
-  * Participation
-    
-* Sep 2020 - Nov 2021: Few-shot learning based intelligent rapid detection technology of typical military targets
-  * Joint Fund of Equipment Pre-Research and Aerospace Science and Industry
-  * Participation
-
-Honors and Awards
-======
-  Outstanding Graduate, China University of Geosciences, Wuhan, 2023.06
-  Academic Scholarship for Undergraduate Students, China University of Geosciences, Wuhan, 2020~2023
-  The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation, 2020.11
-  National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation, 2020.11
-  Outstanding Graduate, China University of Geosciences, Wuhan, 2019.02
-  The Second Prize in North China Division of The 12th NXP Cup National University Students Intelligent Car Race, Automation Teaching Guidance Committee of Ministry of Education of the PRC, 2017.07
-  The Second Prize of Undergraduate Group in Hebei Division of National Undergraduate Electronic Design Competition, Hebei Department of Education, 2017.08
-  National Excellence Award of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.07
-  The Champion in Hebei Division of China Collegiate Computing Contest (Group Programming Ladder Tournament), Computer Science Teaching Guidance Committee of Ministry of Education of the PRC, 2016.03
-  Academic Scholarship for Postgraduate Students, Hebei University of Engineering, 2015~2019
-  
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Outstanding Graduate, China University of Geosciences
+  * Academic Scholarship for Postgraduate Students, China University of Geosciences
+  * The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation
+  * National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation
 
 Publications
 ======
