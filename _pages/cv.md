@@ -29,17 +29,14 @@ Research Experience
 
 Publications (\*corresponding author)
 ======
-* Preprint
-  1. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023. (under review)
-  2. Zhang-Hua Fu\*, Sipeng Sun, Jintong Ren, Tianshu Yu\*, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu\*. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv:2308.04639, 2023.
-     
-* Conference papers
-  1. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), 2023
-  
-* Journal papers
-  1. Guanghao Yin, Yuanyuan Liu\*, Tengfei Liu, **Haoyu Zhang**, Fang Fang, Chang Tang, Liangxiao Jiang. Token-disentangling Mutual Transformer for Multimodal Emotion Recognition. Engineering Applications of Artificial Intelligence, 2024.
-  2. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023.
-  3. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo\*. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
+  1. **Haoyu Zhang**, Tianshu Yu\*. Harnessing Multimodal Large Language Models for Efficient Multimodal Sentiment Analysis via Prompt-Guided Distillation. 2024. (under review)
+  2. **Haoyu Zhang**, Wenbin Wang, Tianshu Yu\*. Towards Robust Multimodal Sentiment Analysis with Incomplete Data. 2024. (under review)
+  3. Yuanyuan Liu, **Haoyu Zhang\***, Yibing Zhan, Zijing Chen, Zhe Chen. Noise-Resistant multimodal transformer for emotion recognition. arXiv:2305.02814, 2023. (under review)
+  4. Zhang-Hua Fu\*, Sipeng Sun, Jintong Ren, Tianshu Yu\*, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu\*. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv:2308.04639, 2023.
+  5. **Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yunyuan Liu, Tianshu Yu\*. Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis. In EMNLP 2023, 2023
+  6. Guanghao Yin, Yuanyuan Liu\*, Tengfei Liu, **Haoyu Zhang**, Fang Fang, Chang Tang, Liangxiao Jiang. Token-disentangling Mutual Transformer for Multimodal Emotion Recognition. Engineering Applications of Artificial Intelligence, 2024.
+  7. Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen\*, Yibing Zhan. Expression snippet transformer for robust video-based facial expression recognition. Pattern Recognition, 2023.
+  8. Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo\*. Multi-domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer-Aided Design & Computer Graphics, 2023.
 
 Honors and Awards
 ======
@@ -47,7 +44,6 @@ Honors and Awards
   * Academic Scholarship for Postgraduate Students, China University of Geosciences
   * The Third Place of China Robot Competition (3D Measurement Challenge), Chinese Association of Automation
   * National Second Prize of China Robot Competition (3D Recognition Challenge), Chinese Association of Automation
-
 
 <!--
 Publications
